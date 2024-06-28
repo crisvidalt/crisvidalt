@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @crisvidalt
-- 🌱 I’m currently worinkg with Java and Javascript.
+- 🌱 I’m currently worinkg with Java, Javascript and Python.
 -  Making Desing System and Software Arquitecture.
 
 
